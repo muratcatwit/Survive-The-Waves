@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1121e43f8b95a7a408556627660260d3, type: 3}
+  m_Name: Player Characters
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Avery Armstrong
+    characterSprite: {fileID: 2818863114922075214, guid: 5c50bdb798cca0b468827154ff09b607, type: 3}
+  - characterName: ' Parker Petticoat'
+    characterSprite: {fileID: -5942777088919677899, guid: 5c50bdb798cca0b468827154ff09b607, type: 3}
+  - characterName: Emerson Armor
+    characterSprite: {fileID: -6631570396369018864, guid: 5c50bdb798cca0b468827154ff09b607, type: 3}
+  - characterName: Greer the Green
+    characterSprite: {fileID: 5915021092144560497, guid: 5c50bdb798cca0b468827154ff09b607, type: 3}
+  - characterName: Drew Danger
+    characterSprite: {fileID: 2356853202132445012, guid: 5c50bdb798cca0b468827154ff09b607, type: 3}
+  - characterName: Peyton Powerhouse
+    characterSprite: {fileID: 2662242085546763637, guid: 5c50bdb798cca0b468827154ff09b607, type: 3}
+  - characterName: Jordan Jarnsax
+    characterSprite: {fileID: -2166500432354248132, guid: 5c50bdb798cca0b468827154ff09b607, type: 3}
+  - characterName: Terry Turtle
+    characterSprite: {fileID: 1068207550195780342, guid: 5c50bdb798cca0b468827154ff09b607, type: 3}

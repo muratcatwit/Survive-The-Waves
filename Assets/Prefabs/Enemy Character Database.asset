@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1121e43f8b95a7a408556627660260d3, type: 3}
+  m_Name: Enemy Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Carl Crabster
+    characterSprite: {fileID: 1962241067610583930, guid: 5c50bdb798cca0b468827154ff09b607, type: 3}
+  - characterName: Zane Zomboi
+    characterSprite: {fileID: -9209332473090857631, guid: 5c50bdb798cca0b468827154ff09b607, type: 3}
+  - characterName: Mr Spooky Skeleton
+    characterSprite: {fileID: -6851003247649213897, guid: 5c50bdb798cca0b468827154ff09b607, type: 3}
+  - characterName: Berry Beholder
+    characterSprite: {fileID: -4902162982470467229, guid: 5c50bdb798cca0b468827154ff09b607, type: 3}
+  - characterName: Severus Snake
+    characterSprite: {fileID: 4059776647392831205, guid: 5c50bdb798cca0b468827154ff09b607, type: 3}
+  - characterName: Steven Rat Sanchez
+    characterSprite: {fileID: -7339913917541312180, guid: 5c50bdb798cca0b468827154ff09b607, type: 3}
+  - characterName: Gavin Ghost
+    characterSprite: {fileID: -2421132085029784792, guid: 5c50bdb798cca0b468827154ff09b607, type: 3}
+  - characterName: 'Sally Squid '
+    characterSprite: {fileID: 6864634405190605979, guid: 5c50bdb798cca0b468827154ff09b607, type: 3}
+  - characterName: Leo Lobster
+    characterSprite: {fileID: -8243953258190984211, guid: 5c50bdb798cca0b468827154ff09b607, type: 3}
